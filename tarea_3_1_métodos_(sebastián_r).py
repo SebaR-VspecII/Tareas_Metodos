@@ -55,3 +55,8 @@ casos_dos_de_cada_color = [e for e in muestras if dos_de_cada_color(e)]
 p_dos_de_cada_color = len(casos_dos_de_cada_color) / N
 
 print('La probabilidad de sacar dos bolas del mismo color es de:', p_dos_de_cada_color)
+
+# Nota: 7.0
+# Dado el tamaño pequeño de la muestra, era más
+# preciso simular todos los casos en vez de
+# hacer una muestra aleatoria.
