@@ -67,3 +67,6 @@ print(f"Intervalo [15,16]: {error_relatv_sumas_15_16:.2%}")
 print("\nComentario:")
 print("La simulación Monte Carlo concuerda bien con la aproximación gaussiana, especialmente en el intervalo [9,10].")
 print("En el intervalo [15,16], la probabilidad es mucho menor, lo que puede aumentar el error relativo.")
+
+# Nota: 6.5
+# Faltó indagar sobre el por qué de la diferencia en los intervalos
