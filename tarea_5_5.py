@@ -44,3 +44,7 @@ H_aprox = 0.5 * math.log2(2 * math.pi * math.e * n * p * (1 - p))
 
 print(f"Entropía exacta para binomial (n={n}, p={p}) = {H_exacta:.6f} bits")
 print(f"Entropía aproximada (normal) = {H_aprox:.6f} bits")
+
+# Nota: 6.0
+# Faltó justificar las fórmulas usadas y
+# tomar el límite de n grande.
