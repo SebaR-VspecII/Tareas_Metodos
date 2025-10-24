@@ -56,3 +56,5 @@ print("\nArgumento:")
 print("Dentro del intervalo [0, 2], el polinomia se aproxima bien a la funcion. Pero en x = 3, siendo fuera del rango de interpolacion, el error crece demasiado.")
 print("Esto ocurre porque los polinomios de Lagrange solo son precisos dentro del intervalo de los puntos usados; fuera de el, la extrapolacion produce oscilaciones y errores muy grandes.")
 print("Por lo tanto, no se puede usar el mismo polinomio para aproximar la gaussiana en x = 3.")
+
+# Nota: 7.0
