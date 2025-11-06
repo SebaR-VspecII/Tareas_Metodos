@@ -181,3 +181,6 @@ plt.title("Error numérico vs Tolerancia")
 plt.legend()
 plt.grid(True, which="both", ls="--", alpha=0.6)
 plt.show()
+
+# Nota 6.8
+# Faltó concluir e interpretar
