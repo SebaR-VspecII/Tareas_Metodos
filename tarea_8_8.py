@@ -19,7 +19,6 @@ Original file is located at
 #   - Graficar el error global en función de h en t=1.
 #   - Analizar si los resultados son compatibles con lo esperado.
 #
-# Librerías permitidas: numpy, matplotlib.pyplot
 # ============================================================
 
 import numpy as np
