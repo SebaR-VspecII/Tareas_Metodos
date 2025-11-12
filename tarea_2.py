@@ -24,6 +24,7 @@ def Numero_Condicionaminto_polinomio(a, b, c):
   # Se calcula la suma y resta de las raices
   suma = r1 + r2
   resta = r1 + r2
+  # Error tipográfico
 
   # Existe la posibilidad o caso de que ambas raices sean iguales, -
   # por lo que tambíen hacemos algo al respecto
@@ -41,3 +42,6 @@ def Numero_Condicionaminto_polinomio(a, b, c):
 
   # Finalmente el resultado a todo esto
   return r1, kappa1, r2, kappa2
+
+# Nota: 6.8
+# Error tipográfico que afecta el resultado final
