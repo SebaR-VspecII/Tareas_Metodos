@@ -214,3 +214,6 @@ print(" • Taylor de orden 2 muestra pendiente ≈ 2, error proporcional a h².
 print(" • Taylor de orden 3 muestra pendiente ≈ 3, error proporcional a h³.")
 print("Esto coincide exactamente con la teoría de convergencia de los métodos numéricos:")
 print("a mayor orden del método, el error global disminuye mucho más rápido al reducir el paso h.")
+
+# Nota: 6.5
+# Retraso en la entrega. Se cobra menos de lo usual por ayuda señalando tareas faltantes en los apuntes y nota faltante en tarea 2
