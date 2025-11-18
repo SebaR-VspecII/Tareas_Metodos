@@ -80,10 +80,10 @@ def adams_moulton_3step(a, b, y0, N):
         g_ip1 = t_ip1 * np.exp(3*t_ip1)  # parte que no depende de y
 
         # Fórmula explícita de w_{i+1} obtenida al despejar
-        numerator = w[i] + (h/24)*(9*g_ip1 + 19*f_i - 5*f_im1 + f_im2)
-        denominator = 1 + (3/4)*h   # proviene de mover terms de w_{i+1}
+        numerador = w[i] + (h/24)*(9*g_ip1 + 19*f_i - 5*f_im1 + f_im2)
+        denominador = 1 + (3/4)*h   # proviene de mover terms de w_{i+1}
 
-        w[i+1] = numerator / denominator
+        w[i+1] = numerador / denominador
 
     return t, w
 
