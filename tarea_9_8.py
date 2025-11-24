@@ -111,3 +111,6 @@ plt.title("Método de Adams-Moulton de 3 pasos")
 plt.legend()
 plt.grid()
 plt.show()
+
+# Nota: 6.0
+# Retraso en la entrega.
