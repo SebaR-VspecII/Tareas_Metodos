@@ -133,3 +133,6 @@ plt.ylabel("Soluciones")
 plt.grid()
 plt.legend()
 plt.show()
+
+# Nota: 7.0
+# Mucho uso de IA sin citarla apropiadamente.
